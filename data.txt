@@ -1,0 +1,27 @@
+DATA LOG
+***************************************
+Customer Name: Jaden Nell
+Product: Restonic Barbados
+VAT: R 30,00
+COMMISSION: R 10,00
+TOTAL: R 240,00
+***************************************
+
+DATA LOG
+***************************************
+Customer Name: Jaden Nell
+Product: Restonic Barbados
+VAT: R 30,00
+COMMISSION: R 10,00
+TOTAL: R 240,00
+***************************************
+
+DATA LOG
+***************************************
+Customer Name: Jaden Nell
+Product: Restonic Barbados
+VAT: R 30,00
+COMMISSION: R 10,00
+TOTAL: R 240,00
+***************************************
+
